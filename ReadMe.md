@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a student.<br>🌱 I’m currently learning.<br>💬 I'm passionate Python developer with expertise in Django, Tkinter, and full-stack development.<br> Skilled in database management, data visualization (Power BI), and version control with GitHub.<br> Knowledgeable in AWS Cloud Foundations and always eager to learn and solve technical <br>challenges.
+💬 I'm passionate Python developer with expertise in Django, Tkinter, and full-stack development.<br> Skilled in database management, data visualization (Power BI), and version control with GitHub.<br> Knowledgeable in AWS Cloud Foundations and always eager to learn and solve technical <br>challenges.
 
 
 ## 🌐 Socials:
